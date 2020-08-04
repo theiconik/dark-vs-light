@@ -1,0 +1,27 @@
+{
+  "name": "darkvslight.github.io",
+  "version": "1.0.0",
+  "description": "side project showcasing CSS and JS",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theiconik/darkVSlight.github.io.git"
+  },
+  "keywords": [
+    "CSS",
+    "JS",
+    "HTML"
+  ],
+  "author": "Ujjawal Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theiconik/darkVSlight.github.io/issues"
+  },
+  "homepage": "https://github.com/theiconik/darkVSlight.github.io#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
