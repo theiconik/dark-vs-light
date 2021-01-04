@@ -1,5 +1,5 @@
 # darkVSlight
-Just a simple one page website with CSS and JS implementation! Inspired by [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+As mentioned in "About", this is just a simple one page website and this is how the aesthetics look! (Inspired by [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw))
 
 <img src="preview.png"></img>
 
